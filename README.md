@@ -154,21 +154,6 @@
 
 * **Link:** [http://open.youku.com/](http://open.youku.com/)
 
-###打赏我
-
-![Image](https://raw.githubusercontent.com/SkillCollege/server/master/SimplifyReader/images/pay_qrcode.png)
-
-###关于我
-
-* **QQ:** 1076559197
-* **Weibo:** [http://weibo.com/obsessive1990](http://weibo.com/obsessive1990)
-* **Email:** [1076559197@qq.com](mailto:1076559197@qq.com) | [tchen0707@gmail.com](mailto:tchen0707@gmail.com)
-* **Github:** [https://github.com/skillcollege](https://github.com/skillcollege)
-* **Blog:** [https://skillcollege.github.io](https://skillcollege.github.io) | [http://blog.csdn.net/skillcollege](http://blog.csdn.net/skillcollege)
-
-###项目主页
-
-[http://skillcollege.github.io/SimplifyReader/](http://skillcollege.github.io/SimplifyReader/)
 
 ###License
 
